@@ -1,16 +1,16 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me 📖
-Hi, I'm **Oluwapelumi Daniel** — also known as **The Logic Luminary** — a passionate programmer, math hobbyist, and aspiring robotics & AI researcher.  
-I’m especially interested in the intersection of **robotics**, **computer vision**, and **healthcare technology**.
+Hi, I'm **Oluwapelumi Daniel** — also known as **The Logic Luminary** or **Lum** — a passionate programmer, math hobbyist, and aspiring Surgical robotics Engineer.  
+I’m especially interested in the intersection of **robotics**, **computer vision**, **Machine Learning** and **healthcare technology**.
 
 I'm currently building a strong foundation in **Python**, **C++**, and **mathematics**, with a long-term goal of contributing to the development of intelligent robotic systems that assist in surgery and other life-saving medical tasks.
 
 I’m deeply curious about how **math, code, and vision systems** can work together to improve human life. I'm a **lifelong learner**, always seeking to deepen my knowledge in:
 - Computer Vision  
 - Autonomous Robotics  
-- Control Systems  
-- Scientific Computing  
+- Control Systems
+- Scientific Computing
 - Mathematics for AI and Robotics
 
 ---
